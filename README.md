@@ -6,7 +6,7 @@
 This is an e-commerce backend using Express.js, MySQL, and Sequelize. 
 
 ## Walkthrough
-:link:https://github.com/alexchristianson/e-commerce-backend/blob/main/assets/demo/e-commerce-backend-walkthrough.webm
+:link:https://github.com/alexchristianson/e-commerce-backend/blob/main/assets/e-commerce-backend-walkthrough.webm
 
 ## Table of Contents
 * [License](#license)
