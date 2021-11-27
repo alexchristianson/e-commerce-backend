@@ -5,9 +5,8 @@
 ## Description 
 This is an e-commerce backend using Express.js, MySQL, and Sequelize. 
 
-## Screenshots
-![Screenshot of main page](./public/assets/images/main-page.jpg)
-![Screenshot of notes page](./public/assets/images/notes-page.jpg)
+## Walkthrough
+:link:https://github.com/alexchristianson/employee-tracker/blob/main/assets/demo/e-commerce-backend-walkthrough.webm
 
 ## Table of Contents
 * [License](#license)
